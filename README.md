@@ -1,2 +1,1 @@
-# tugasrenyPHP
-tugaspakRizky
+# tugas-php-siti-zulfatul-hajar
